@@ -43,6 +43,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+
   "homepage": "https://acuongnguyen.github.io/backend-iot",
   "eslintConfig": {
     "extends": [
