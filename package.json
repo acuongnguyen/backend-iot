@@ -36,14 +36,11 @@
     "websocket": "^1.0.34"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://acuongnguyen.github.io/backend-iot",
   "eslintConfig": {
     "extends": [
       "react-app",
